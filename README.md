@@ -1,1 +1,31 @@
 # bemoeizorg-botvieren
+
+# bemoeizorg
+https://nl.wikipedia.org/wiki/Bemoeizorg
+
+# geweld
+https://nl.wikipedia.org/wiki/Geweld
+
+# substantia nigra
+https://en.wikipedia.org/wiki/Substantia_nigra
+
+# syringe
+https://en.wikipedia.org/wiki/Syringe
+
+# nerve agent
+https://en.wikipedia.org/wiki/Nerve_agent
+
+# deoot injection
+https://en.wikipedia.org/wiki/Depot_injection
+
+# poisening
+https://en.wikipedia.org/wiki/Poisoning
+
+# mishandeling
+https://nl.wikipedia.org/wiki/Mishandeling
+
+# isoleercel
+https://nl.wikipedia.org/wiki/Isoleercel
+
+# staat der nederlanden
+https://nl.wikipedia.org/wiki/Staat_der_Nederlanden
